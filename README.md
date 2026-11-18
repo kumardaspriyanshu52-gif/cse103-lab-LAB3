@@ -1,4 +1,7 @@
 # My First Repository
 
 ## Description
-CSE103 lab repository � LAB 3.
+
+CSE103 Lab repository – LAB 3.
+
+Lab work for LAB 3 — GitHub Collaboration & API Interaction.
